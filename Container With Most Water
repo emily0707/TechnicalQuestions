@@ -17,8 +17,8 @@ Initially: left = 0; right = n-1;
 end: left> right 
 
 
-•Time complexity : O(n)O(n)O(n). Single pass.
-•Space complexity : O(1)O(1)O(1). Constant space is used.
+•Time complexity : O(n). Single pass.
+•Space complexity : O(1). Constant space is used.
 
 
        
